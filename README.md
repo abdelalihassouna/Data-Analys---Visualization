@@ -1,4 +1,3 @@
+Full Data Analysis Project using Python PowerBI
 
-# Data-Analys---Visualization
-
-In this small project i will show you how to create a end&end small project for data analysis and using powerbi for visualizations.
+In this small project i will show you how to create a end&end small project for data analysis using pyathon&powerBI for visualizations.
